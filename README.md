@@ -19,7 +19,7 @@ Closed eyes and looking down take priority over expressions so safety warnings r
 Open PowerShell in this folder:
 
 ```powershell
-cd C:\Users\chees\Documents\Codex\2026-06-24\how-can-i-make-a-driver\outputs\driver_monitor
+cd C:\Users\user\Documents\Codex\....
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
